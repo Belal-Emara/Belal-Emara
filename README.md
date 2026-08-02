@@ -4,13 +4,6 @@ Currently focused on MERN Stack Development, where I enjoy building modern, scal
 
 I am a fast learner, highly motivated, and constantly improving my technical and problem-solving skills. I’m also open to internship and freelance opportunities where I can gain real-world experience, contribute to impactful projects, and continue growing as a software engineer .</h2>
 
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 
 ###
 <h3 align="left">Languages and Tools:</h3>
@@ -27,7 +20,5 @@ I am a fast learner, highly motivated, and constantly improving my technical and
 ###
 
 <br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/Belal-Emara/Belal-Emara/snake-output/snake.svg" alt="Snake animation" />
 
 ###
