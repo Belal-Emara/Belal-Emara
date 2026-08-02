@@ -34,6 +34,6 @@ I am a fast learner, highly motivated, and constantly improving my technical and
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/Belal-Emara/Belal-Emara/snake-output/snake.svg" alt="Snake animation" />
 
 ###
