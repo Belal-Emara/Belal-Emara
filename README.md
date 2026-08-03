@@ -5,7 +5,7 @@
 
 > I am a fast learner, highly motivated, and constantly improving my technical and problem-solving skills. I’m also open to internship and freelance opportunities where I can gain real-world experience, contribute to impactful projects, and continue growing as a software engineer 
 
-###
+--- 
 ## ⚡Skills & Technologies
 <div align="center">
 
@@ -13,15 +13,29 @@
 
 </div>
 
-###
+---
 
 <div data-importer="socials" align="left">
+ <h2>social media </h2>
   <a href="https://www.linkedin.com/in/belal-emara/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>  
 </div>
 
 ###
+
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Belal-Emara&theme=tokyonight" />
+
+</div>
+
+---
 
 <br clear="both">
 
