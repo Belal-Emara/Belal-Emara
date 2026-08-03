@@ -1,3 +1,10 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Belal%20Emara&fontSize=50&fontColor=fff&animation=twinkling)
+<div align="center">
+ 
+ ## Software Engineer
+
+</div>
+
 # Belal Emara  | Software Engineer
 > Third-year Computer and Data Science student passionate about Software Engineering, Artificial Intelligence, Machine Learning, and Data Science, with a strong interest in combining these fields to build practical solutions for real business problems.
  
@@ -35,8 +42,4 @@
 
 </div>
 
----
-
-<br clear="both">
-
-###
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer)
