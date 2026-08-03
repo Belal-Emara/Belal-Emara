@@ -1,11 +1,8 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Belal%20Emara&fontSize=50&fontColor=fff&animation=twinkling)
-<div align="center">
- 
- ## Software Engineer
+<h1 align="center">
+Software Engineer
+</h1>
 
-</div>
-
-# Belal Emara  | Software Engineer
 > Third-year Computer and Data Science student passionate about Software Engineering, Artificial Intelligence, Machine Learning, and Data Science, with a strong interest in combining these fields to build practical solutions for real business problems.
  
 > Currently focused on MERN Stack Development, where I enjoy building modern, scalable, and user-friendly web applications. I always try to observe problems around me and create solutions using the technologies and skills I’ve learned.
